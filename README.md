@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Flores</h1>
-<h3 align="center">A passionate Android and frontend developer from Spain</h3>
+<h3 align="center">A passionate Android and Frontend Developer from Spain</h3>
+<h3 align="center">In addition, I am also a student of Graphic Product Design.</h3>
 
-- 🔭 I’m currently working on my own projects [Fichar Horas](https://github.com/proagency98)
+
+- 🔭 I’m currently working on my own projects
 
 - 💬 Ask me about my education **Android Developer and Web Developer (Frontend)**
 
