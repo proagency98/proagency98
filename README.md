@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Flores</h1>
 <h3 align="center">A passionate Android and frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on my own project [Fichar Horas](https://github.com/proagency98/fichar-horas-empleados)
+- 🔭 I’m currently working on my own projects [Fichar Horas](https://github.com/proagency98)
 
 - 💬 Ask me about my education **Android Developer and Web Developer (Frontend)**
 
