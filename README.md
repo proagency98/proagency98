@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Flores</h1>
-<h3 align="center">A passionate Android and Frontend Developer from Spain</h3>
+<h3 align="center">A passionate Frontend Developer based in Spain</h3>
 <h3 align="center">Additionally, I am a student of Graphic Product Design.</h3>
 
 
