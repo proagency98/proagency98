@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own projects
 
-- 💬 Ask me about my education **Web Developer (Frontend) and Python Django **
+- 💬 Ask me about my education **Web Developer (Frontend) and Python Django**
 
 - 📫 How to reach me **proagency98@gmail.com**
 
